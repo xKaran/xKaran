@@ -3,7 +3,7 @@
 <!--
 **xKaran/xKaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Karan Choudhary
+<h1>Karan Choudhary</h1>
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on Front-end Projects.
