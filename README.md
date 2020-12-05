@@ -11,6 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Backend.
 - 💬 Ask me about HTML,CSS,UI/UX,Bootstrap,etc.
 - 📫 How to reach me: [Email 📧](mailto:karanchoudhary0826@gmail.com) 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am a Teenager
