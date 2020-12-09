@@ -6,10 +6,14 @@
 
 <h1>Hi! I Am Karan Choudhary</h1>
 - 🔭 I’m currently working on my Portfolio.
+
 - 🌱 I’m currently learning JavaScript.
+
 - 👯 I’m looking to collaborate on Front-end Projects.
+
 - 🤔 I’m looking for help with Backend.
 - 💬 Ask me about HTML,CSS,UI/UX,Bootstrap,etc.
+
 - 📫 How to reach me: [Email 📧](mailto:karanchoudhary0826@gmail.com) 
 <!--
 Languages I Know
