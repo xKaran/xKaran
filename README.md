@@ -6,7 +6,9 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **JavaScript**.
+- I'm currently working on my💻 **Portfolio**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
