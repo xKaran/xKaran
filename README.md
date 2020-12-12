@@ -19,7 +19,7 @@
 <a href="https://github.com/xKaran">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=xKaran&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true%22">
 </a>
-<a href="https://github.com/KarthikNayak024/github-readme-stats">
+<a href="https://github.com/xKaran/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xKaran&layout=compact&theme=blue-green" />
 </a>
 
