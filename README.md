@@ -24,6 +24,15 @@
 </a>
 
 </br>
+<img src="https://github-profile-trophy.vercel.app/?username=karthiknayak024&column=7&theme=gruvbox"/> -->
+
+## 🛠️ **Languages & Tools:**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 <!--
 <h1>Hi! I Am Karan Choudhary</h1>
 🔭 I’m currently working on my Portfolio.
