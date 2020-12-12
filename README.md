@@ -24,7 +24,8 @@
 </a>
 
 </br>
-<img src="https://github-profile-trophy.vercel.app/?username=karthiknayak024&column=7&theme=gruvbox"/> -->
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=xKaran&column=7&theme=gruvbox"/> -->
 
 ## 🛠️ **Languages & Tools:**
 
