@@ -37,8 +37,8 @@
 
 ## 🌐 **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/Gmail-karanchoudhary0826@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-[<img src="https://img.shields.io/badge/Github-xKaran-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/Gmail-karanchoudhary0826@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"]
+[<img src="https://img.shields.io/badge/Github-xKaran-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"]
 <!--
 [<img src="https://img.shields.io/badge/Codepen-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 -->
