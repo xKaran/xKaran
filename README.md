@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐 **Reach out to me:** ️
-<img src="https://img.shields.io/badge/Gmail-karanchoudhary0826@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/><img src="https://img.shields.io/badge/Github-xKaran-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/><img src="https://img.shields.io/badge/Codepen-xKaran-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>
+<img src="https://img.shields.io/badge/Gmail-karanchoudhary0826@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/> <img src="https://img.shields.io/badge/Github-xKaran-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>
 
 <!--
 <h1>Hi! I Am Karan Choudhary</h1>
