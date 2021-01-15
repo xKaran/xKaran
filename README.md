@@ -6,7 +6,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **JavaScript**.
-- I'm currently working on my💻 **Portfolio**.
+- I'm currently working on my💻 [Cordion](https://www.figma.com/file/Ch4o8U3JH56yNOCmYHYqSV/Cordion?node-id=0%3A1).
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 
