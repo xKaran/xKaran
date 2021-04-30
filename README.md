@@ -5,7 +5,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **JavaScript**.
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **React**.
 - I'm currently working on [Todovio](https://forms.gle/JMw8iXh2UJ52Fm8aA).
 - 🌱 I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 💬 Ask me about **HTML, CSS, JS, UI/UX, Bootstrap, etc**.
