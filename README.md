@@ -26,6 +26,8 @@
 </a>
 
 </br>
+<!-- ![GitHub Activity Graph](http://activity-graph.herokuapp.com/graph?username=xKaran&theme=react-dark)
+ -->
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=xKaran&column=7&theme=gruvbox"/> -->
 
