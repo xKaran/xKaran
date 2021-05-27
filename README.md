@@ -23,8 +23,10 @@
 </a>
 <a href="https://github.com/xKaran/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xKaran&layout=compact&theme=blue-green" />
+</a>  
+<a href="https://github.com/xKaran/">
+<img align="center" src="http://activity-graph.herokuapp.com/graph?username=xKaran&theme=react-dark" />
 </a>
-
 </br>
 <!-- ![GitHub Activity Graph](http://activity-graph.herokuapp.com/graph?username=xKaran&theme=react-dark)
  -->
